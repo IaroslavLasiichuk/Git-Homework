@@ -266,3 +266,4 @@ function f15(){
 document.querySelector('.b-15').onclick = f15;
 
 console.log(test);
+//test for pull
